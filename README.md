@@ -2,8 +2,7 @@
 
 this repo i use to save my articles and guides the i use to knowledbase.
 
-
-### Themas.
+### articles
 
 - Postgresql Locale
   - [postgresql_collate_page.md](postgresql_collate_page.md)
