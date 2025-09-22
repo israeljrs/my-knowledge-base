@@ -1,6 +1,6 @@
 # PostgreSQL COLLATE: guia prático de localidade, ordenação e comparação
 
-Este guia reúne, organiza e expande os pontos dos arquivos `postgresql_collate_1.md` e `postgresql_collate_2.md` em uma referência única e prática sobre collations no PostgreSQL: o que são, como escolher, como configurar, resolver erros comuns e as melhores práticas de uso em produção.
+Este guia e uma referência única e prática sobre collations no PostgreSQL: o que são, como escolher, como configurar, resolver erros comuns e as melhores práticas de uso em produção.
 
 ## 1) Conceitos rápidos
 
